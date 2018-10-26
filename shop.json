@@ -1,0 +1,62 @@
+{
+	"shop": {
+		"fruitsAndVegetables": {
+			"showcase1": {
+				"apples": [
+					{
+						"type": "golden",
+						"quantity": "20kg",
+						"price": "25uah/kg" 
+					},
+					{
+						"type": "semerenko",
+						"quantity": "10kg",
+						"price": "15uah/kg" 
+					}
+				],
+				"oranges": [
+					{
+						"type": "type1",
+						"quantity": "25kg",
+						"price": "40uah/kg" 
+					},
+					{
+						"type": "type2",
+						"quantity": "30kg",
+						"price": "55uah/kg" 
+					}
+				]
+			},
+			"showcase2": {
+				"mango": [
+					{
+						"type": "large",
+						"quantity": "20pc",
+						"price": "50uah/pc" 
+					},
+					{
+						"type": "medium",
+						"quantity": "25pc",
+						"price": "40uah/pc" 
+					}
+				]
+			},
+		},
+		"meatAndFish": {
+			"showcase1": {
+				"herring": [
+					{
+						"type": "finnish",
+						"quantity": "30kg",
+						"price": "80uah/kg" 
+					},
+					{
+						"type": "norwegian",
+						"quantity": "10pack",
+						"price": "40uah/pack" 
+					}
+				]
+			}
+		}
+	}
+}
